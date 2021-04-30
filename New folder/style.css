@@ -1,0 +1,49 @@
+ h1 {
+	font-size: 2.5rem;
+	text-align: center;
+	color: blue;
+	font-weight: 900;
+	font-size: 45px;
+}
+form {
+	text-align: center;
+	margin-top: 50px;
+}
+input {
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 40px;
+	background-color: green;
+	color: black;
+}
+h2 {
+	text-align: center;
+	margin-bottom: -35px;
+	font-size: 20px;
+	margin-top: 100px;
+}
+a {
+	color: #007bff;
+	text-decoration: none;
+	background-color: transparent;
+	display: inline-block;
+	text-align: center;
+	background-color: red !important;
+	margin-left: 458px;
+	padding: 7px 30px;
+	color: #fff !important;
+	font-size: 14px;
+	border-radius: 10px;
+    text-decoration: none;
+    transition: .4s;
+}
+a:hover{
+    background-color: yellow;
+}
+table {
+	margin-top: 75px;
+	margin-left: 353px;
+	color: red;
+	margin-bottom: 50px;
+}
